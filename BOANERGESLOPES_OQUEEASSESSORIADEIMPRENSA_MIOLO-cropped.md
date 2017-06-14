@@ -17,6 +17,7 @@ A Margareth de Andrade Figueira Lopes, companheira de idéias e
 sentimentos, a meus filhos Douglas e Tainah, a meu pai e minha mãe.
 
 #Introdução
+
 O telefone toca de um lado. É uma colunista querendo uma nota
 exclusiva. O rádio transmite o noticiário de hora cheia. “O *clipping*
 está pronto?”, pergunta um diretor mais afoito. Na telinha, a
@@ -98,6 +99,7 @@ também são utilizadas em alguns trechos do livro, adequadas às suas
 reais abrangências, facilitando a identificação dos leitores.
 
 ##Um novo campo de atuação
+
 A expansão das Assessorias de Imprensa no Brasil já possibilita uma
 afirmação até há pouco tempo um tanto arriscada: é um dos quatro
 principais blocos de referência para o exercício do jornalismo, ao
@@ -377,6 +379,7 @@ simpósios, cursos, inaugurações e visitas de grupos), sua criatividade e sens
 aproximação do assessorado e seus públicos.
 
 ##*Ombudsman* – A ética em xeque
+
 A partir do início da década de 1990, o cidadão brasileiro
 “redescobriu” que tem direitos. E direitos, principalmente, de
 consumidor. É notório que não dá mais para as empresas apresentarem
@@ -457,7 +460,11 @@ o exemplo ilustrado a seguir:
 
 **O ATENDIMENTO**
 
+
+
 **A SOLUÇÃO**
+
+
 
 Para o *ex-ombudsman* do *Washington Post,* Richard Cunnigan, um
 profissional qualificado para o exercício nessa área deve proteger o
@@ -950,7 +957,7 @@ coletivas que anunciam eventos significativos, ou em alguns casos que
 envolvam dados técnicos minuciosos e que precisam chegar ao repórter
 de uma forma clara e precisa.
 
-O(A) assessor(a) não é um(a) “folgado(a)”
+##O(A) assessor(a) não é um(a) “folgado(a)”
 
 Nas empresas são encontrados alguns exemplos que também dificultam o
 relacionamento do “lado de cá” – a Assessoria de Comunicação Social –
@@ -964,7 +971,7 @@ cálculos, entre outras atividades. Para ele, tevê, rádio e jornal
 estão relacionados geralmente a formas de entretenimento e não são
 considerados fundamentais para o exercício de uma determinada profissão. Só
 que no caso da ACS, essas são as “ferramentas” que possibilitam o
-funcionamento de toda a engrenagem. AAssessoria que não estiver
+funcionamento de toda a engrenagem. A Assessoria que não estiver
 “antenada” com os fatos e suas prováveis conseqüências no contexto
 sócio-político e econômico poderá prejudicar o próprio desenvolvimento
 da empresa.
@@ -984,8 +991,7 @@ comunicação social, a imagem de uma empresa poderá sair do episódio no
 mínimo “arranhada” e, se isso acontecer, o trabalho para recuperá-la
 é longo e difícil.
 
-O DIA-A-DIA DO(A) ASSESSOR(A) DE IMPRENSA
------------------------------------------
+#O dia-a-dia do(a) assessor(a) de imprensa
 
 O dia começa cedo numa Assessoria de Comunicação Social. Junto com
 as primeiras informações dos chamados “jornais falados” ou
@@ -1352,8 +1358,7 @@ Verificar:
 
 2.  Cronograma básico mensal.
 
-*RELEASE* PARA QUEM? CUIDADO COM A LATA DE LIXO
------------------------------------------------
+#*Release* para quem? Cuidado com a lata de lixo
 
 O *release* é como a primeira página de um jornal. Ou consegue prender
 o leitor de imediato ou é deixada de lado, quando o concorrente
@@ -1398,16 +1403,15 @@ veículo de comunicação.
 
 Os “dez mandamentos” a seguir podem ajudar bastante aqueles que
 pretendem escapar da “cesta página”, evitando erros comuns e adequando os respectivos
-
 *releases* para as horas certas e pessoas indicadas.
 
-1– Todo *release* que se preza deve apresentar antes de qualquer
-outra coisa o logotipo da empresa, mesmo que o setor de Assessoria de
-Imprensa seja terceirizado. Isso facilita a identificação imediata nos
-veículos de comunicação de uma organização que desenvolve um bom
-trabalho e que normalmente encaminha informações que poderão ser
-aproveitadas em suas respectivas pautas. Vale ressaltar que a
-Assessoria não pode se destacar mais que a empresa à qual está ligada ou p’resta serviços.
+1. – Todo *release* que se preza deve apresentar antes de qualquer
+    outra coisa o logotipo da empresa, mesmo que o setor de Assessoria de
+    Imprensa seja terceirizado. Isso facilita a identificação imediata nos
+    veículos de comunicação de uma organização que desenvolve um bom
+    trabalho e que normalmente encaminha informações que poderão ser
+    aproveitadas em suas respectivas pautas. Vale ressaltar que a
+    Assessoria não pode se destacar mais que a empresa à qual está ligada ou p’resta serviços.
 
 2.  – É fundamental que o *release* tenha uma padronização definida. A
     data da elaboração do texto é imprescindível para situar o
@@ -1425,42 +1429,40 @@ Assessoria não pode se destacar mais que a empresa à qual está ligada ou p’
     linhas.
 
 3.  – O *release* deve ser elaborado nos moldes de um bom texto
-    jornalístico, sem entretanto substituí-lo.
+    jornalístico, sem entretanto substituí-lo. Cabe a um bom repórter checar as informações e confirmar a sua
+    veracidade. Um título bem elaborado, que sirva de chamariz para um
+    *lead* – abertura da matéria; é o primeiro parágrafo do texto, que
+    serve de “chamariz” para o restante: deve ser claro, conciso e
+    interessante e se possível responder às clássicas indagações o *que,
+    onde, quando, como* e *por que* – bem-feito, com um texto ordenado e
+    estimulante e que faça com que os profissionais de imprensa se
+    interessem, é um bom caminho. Deve transmitir novidades, sem enaltecer demasiadamente a empresa ou instituição. O jornalista que recebe
+    o texto precisa achar que aquela informação vai ser importante para o
+    leitor, ouvinte ou telespectador. Para o jornalista Mário Blander,
+    diretor da Blander e Associados, o texto também precisa de qualidade
+    total. Clareza, correção e um certo estilo nos *releases* de uma
+    empresa ajudam a fazer e preservar sua imagem.
 
-Cabe a um bom repórter checar as informações e confirmar a sua
-veracidade. Um título bem elaborado, que sirva de chamariz para um
-*lead* – abertura da matéria; é o primeiro parágrafo do texto, que
-serve de “chamariz” para o restante: deve ser claro, conciso e
-interessante e se possível responder às clássicas indagações o *que,
-onde, quando, como* e *por que* – bem-feito, com um texto ordenado e
-estimulante e que faça com que os profissionais de imprensa se
-interessem, é um bom caminho. Deve transmitir novidades, sem enaltecer demasiadamente a empresa ou instituição. O jornalista que recebe
-o texto precisa achar que aquela informação vai ser importante para o
-leitor, ouvinte ou telespectador. Para o jornalista Mário Blander,
-diretor da Blander e Associados, o texto também precisa de qualidade
-total. Clareza, correção e um certo estilo nos *releases* de uma
-empresa ajudam a fazer e preservar sua imagem.
-
-2.  – Termos técnicos ou chavões em *releases* devem ser evitados. Caso
+4.  – Termos técnicos ou chavões em *releases* devem ser evitados. Caso
     isso não possa ser feito, o correto é que essas palavras devam ser
     muito bem explicadas para não provocar incorreções. O jornalista
     deve ,compreender muito bem o significado da mensagem para que
     possa transmiti-la com precisão e clareza ao seu público.
 
-3.  – O jornalista norte-americano Wayne Green, atual presidente da WGE,
+5.  – O jornalista norte-americano Wayne Green, atual presidente da WGE,
     uma empresa distribuidora de 27 revistas no estado de New Hampshire,
     costuma dizer que a maioria dos *releases* é produzida como se fosse
     um folheto de vendas. Muita atenção a isso. E uma técnica que não funciona no relacionamento com a imprensa. Se uma
-grande, campanha de mata direta pode trazer muitos pedidos a
-empresa, enviar milhares de *releases* não provoca o mesmo efeito.
-Quantidade não é qualidade. O *release* deve ser muito bem
-direcionado, atingindo a editoria certa, com informações estritamente
-necessárias.
+    grande, campanha de mata direta pode trazer muitos pedidos a
+    empresa, enviar milhares de *releases* não provoca o mesmo efeito.
+    Quantidade não é qualidade. O *release* deve ser muito bem
+    direcionado, atingindo a editoria certa, com informações estritamente
+    necessárias.
 
-6 – O *release* deve estar sempre assinado pelo responsável pelo
-setor. O(A) jornalista, assessor(a) de Imprensa, com seu registro
-profissional identificado claramente. A responsabilidade por uma
-informação precisa e sua e da empresa à qual está ligado(a).
+6. – O *release* deve estar sempre assinado pelo responsável pelo
+    setor. O(A) jornalista, assessor(a) de Imprensa, com seu registro
+    profissional identificado claramente. A responsabilidade por uma
+    informação precisa e sua e da empresa à qual está ligado(a).
 
 7.  – O responsável pelo primeiro contato com a imprensa também deve
     ter seu nome e telefone apresentados com destaque no *release.* E
@@ -1493,8 +1495,7 @@ informação precisa e sua e da empresa à qual está ligado(a).
     identificação das pessoas deve ser detalhada, com nomes completos e
     designação dos cargos, e mais o nome e registro do fotógrafo.
 
-JORNAL EMPRESARIAL – A DISTÂNCIA ENTRE O REAL E A FANTASIA
-----------------------------------------------------------
+#Jornal empresarial – a distância entre o real e a fantasia
 
 O corre-corre é geral. Todos juntam-se ao chefe e fazem um “xiiiisss”
 coordenado, sem nunca terem precisado de ensaio prévio, O motivo: a
@@ -1529,12 +1530,13 @@ presente da empresa, assumir seu atributo de universalidade
 (apresentar informações sobre quaisquer áreas ou programas de
 interesse da empresa e seus públicos) e atingir a coletividade.
 
-Linha editorial e pauta – momentos decisivos Antes de se pensar numa boa pauta, que seja recheada com assuntos
+##Linha editorial e pauta – momentos decisivos
+
+ Antes de se pensar numa boa pauta, que seja recheada com assuntos
 relacionados aos interesses dos públicos interno e externo, o que deve
 estar previamente definido para o lançamento de um jornal
 empresarial é a sua política editorial – a linguagem própria adotada
-
-![](media/image88.png)por um meio de informação para se comunicar com
+por um meio de informação para se comunicar com
 seus editores, ouvintes ou telespectadores –, traçada a partir das
 diretrizes básicas de planejamento da empresa, observando interesses
 reais da diretoria e a necessidade dos leitores. Clareza dos
@@ -1544,32 +1546,12 @@ resultados são algumas questões que devem ser prioritárias. A política
 editorial deve reunir assuntos que podem ser divididos em três áreas,
 como demonstra o quadro a seguir:
 
-### Assuntos do Jornalismo Empresarial Área 1 Assuntos do interesse do funcionário que *não são do interesse
-da empresa* – Podem ser enfocados como um serviço ao leitor ou como
-um elemento de atração deste para o veículo. Como exemplo: os temas sobre decoração do lar, culinária, educação de filhos, lazer
-etc.
 
-Área 2 *Convergência entre o interesse do funcionário e o da
-empresa* – Em geral devem ser dominantes e abrangem tudo sobre políticas, estratégias, normas e acontecimentos da empresa que afetem
-direta ou indiretamente o funcionário, mais tudo o que se refere à
-melhoria da eficiência, da segurança, do clima interno, além de
-temas que levam o empregado a reforçar sua identificação com a
-empresa, à integração com colegas.
-
-Área 3 *Assuntos do interesse da empresa que não são do interesse do
-funcionário* – Em geral enfocam tópicos de representação da empresa
-para públicos externos, eventuais questões formais ou cerimoniais,
-matérias de indicação de prestígio a diretores ou aliados externos
-da empresa. Tudo isso deve ser tratado com extremo cuidado,
-buscando-se o ângulo capaz de despertar algum interesse no
-funcionário. O uso deve ser reduzido ao mínimo.
 
 *Fonte:* Lenilde Piá de Leon e José Antonio Rosa
-
 *Jornalismo de Empresa na Prática.*
 
-![](media/image94.png){width="8.488626421697287e-2in"
-height="9.187445319335083e-2in"}A partir da definição do projeto do
+A partir da definição do projeto do
 jornal, é chegada a hora de tornar esse projeto uma realidade.
 Guardando as devidas proporções em relação aos grandes jornais, as
 etapas para a elaboração de um *house organ* são praticamente as
@@ -1583,7 +1565,9 @@ de Imprensa tem condições de fazer o jornal chegar aos diversos
 setores da empresa. O exemplo demonstra a seqüência que envolve a
 produção de um jornal:
 
-### ![](media/image95.png)![](media/image112.png){width="7.323162729658793e-2in" height="8.85411198600175e-2in"}![](media/image113.png){width="7.01913823272091e-2in" height="8.85411198600175e-2in"}![](media/image114.png){width="8.490157480314961e-2in" height="9.187445319335083e-2in"}![](media/image115.png){width="7.805008748906386e-2in" height="8.85411198600175e-2in"}![](media/image116.png){width="8.288385826771653e-2in" height="8.85411198600175e-2in"}![](media/image117.png)Etapas da produção de um jornal Ao tentar reunir diversos temas que possam contentar o público tão
+
+
+Ao tentar reunir diversos temas que possam contentar o público tão
 heterogêneo que convive dentro de uma empresa ou instituição, a equipe
 responsável pela produção de um *house organ* sabe que, mesmo com
 todo o esforço possível, estará sujeita a críticas. Por exemplo: para
@@ -1631,13 +1615,15 @@ permuta, e proporcionam um clima muito favorável para a organização.
 O diagrama a seguir mostra os pontos básicos a considerar na
 elaboração de uma pauta:
 
-### O que considerar na definição da pauta
+##O que considerar na definição da pauta
 
-![](media/image119.png)
+
 
 *Fonte:* Piá de Leon e Antonio Rosa.
 
-*House organ* eletrônico Em tempo de novas tecnologias, o comportamento das empresas não
+##*House organ* eletrônico
+
+Em tempo de novas tecnologias, o comportamento das empresas não
 poderia estar dissociado desta nova realidade. O impacto das imagens,
 associadas, a textos diretos e objetivos, proporciona a difusão de
 mensagens de forma eficiente e mais rápida, possibilitando a
@@ -1658,10 +1644,7 @@ Social. Enquanto um apresenta rapidez na transmissão de informações e
 impacto calcado na emoção, o outro leva à análise, ao aprofundamento e
 à possibilidade de permanência.
 
-ENSINO DE ASSESSORIA
---------------------
-
-**– TEORIA PRA QUÊ?**
+#Ensino de assessoria – teoria pra quê?
 
 Imaginem dois times de futebol, adversários de anos ao se enfrentarem
 durante uma partida. A disputa é acirrada: ninguém quer perder. E
@@ -1675,7 +1658,6 @@ eficiência, no retorno imediato, nos manuais estratégicos que têm
 explicação para tudo – inclusive para as prováveis derrotas. Como se
 a Comunicação fosse assim tão previsível! Geralmente atuam com toda a
 sua força no segundo tempo. E nem sempre saem com um resultado positivo. Falta criatividade em muitas situações; em outras,
-
 o *back-ground* é deficiente. E aí a “torcida” é implacável, já que
 financia o espetáculo e sabe que vai ter de aturar as críticas
 futuras: “Cadê o time bem formado? Tanto tempo de preparação e olha o
@@ -1775,7 +1757,6 @@ suas respectivas estruturas são arcaicas e baseadas em modelos de
 gerenciamento ultrapassados. Na sua opinião, existe também um
 preconceito muito grande com a escola de Comunicação, devido à sua
 postura crítica,
-
 principalmente contra a relação viciada entre empresa e aparelho
 estatal.
 
@@ -1832,8 +1813,7 @@ mais conhecimento e aplicações de técnica cada vez mais
 especializadas. E isso só se concretiza por meio da criação de uma estrutura curricular que permita pelo menos a inclusão de uma disciplina
 voltada para a área de Assessoria de Imprensa.
 
-INDICAÇÕES PARA LEITURA
------------------------
+#Indicações para leitura
 
 O livro de cabeceira de qualquer candidato(a) a assessor(a) de
 imprensa é o *Manual de Assessoria de Imprensa* da Federação
@@ -1845,12 +1825,10 @@ ser encontrado em qualquer sindicato de jornalistas ou diretamente
 na Fenaj, em Brasília.
 
 A Brasiliense tem dois bons livros da coleção Primeiros Passos que
-estão diretamente ligados ao tema Assessoria de Imprensa: O *que* é
-*Empresa,* de Raimar Richers, que dá uma boa noção do funcionamento
+estão diretamente ligados ao tema Assessoria de Imprensa: *O que é Empresa*, de Raimar Richers, que dá uma boa noção do funcionamento
 das estruturas organizacionais, principalmente das pequenas e médias
 empresas, as quais predominam na realidade brasileira. O livro tem um
-capítulo específico sobre a comunicação nas empresas. E O *que* é
-*Jornalismo,* de Clóvis Rossi, uma visão experiente e objetiva de um
+capítulo específico sobre a comunicação nas empresas. E O *que é Jornalismo,* de Clóvis Rossi, uma visão experiente e objetiva de um
 dos grandes nomes da imprensa no país sobre o comportamento dos
 meios de comunicação, principalmente o jornal. Bom para
 assessores(as) que desconhecem o funcionamento da imprensa.
@@ -1873,7 +1851,7 @@ simples e direta sobre alguns aspectos que devem ser observados pelos
 candidatos a futuras “fontes”. Sobre os meandros das organizações,
 também recomendável a executivos e pretensos(as) assessores(as), aí
 vai uma dica imperdível: *Cultura, Poder, Comunicação e Imagem,* do
-professor Gaudêncio Torquato *e* que foi editado pela Pioneira. As
+professor Gaudêncio Torquato e que foi editado pela Pioneira. As
 instituições, empresas e seus respectivos “poderes” são
 “desvendados” e “desnudados” por esse trabalho, muito interessante
 pela sua simplicidade, sem ser simplório, e por deixar de lado o
@@ -1887,16 +1865,13 @@ Gerson Moreira Lima. Após a sua leitura é difícil não se tornar um
 *expert* no assunto.
 
 Quem também quiser produzir um bom *house organ* não pode deixar
-“passar em branco” a leitura do livro *Jornalismo de*
-
-*Empresa na Prática,* de José Antonio Rosa e Lenilde Piá de Leon,
+“passar em branco” a leitura do livro *Jornalismo de Empresa na Prática,* de José Antonio Rosa e Lenilde Piá de Leon,
 editado pela STS. Detalhes de pauta, diagramação, composição e
 muitos outros assuntos são tratados de uma forma direta e clara.
 
 Para não se cometer nenhum equívoco ético na prática diária que
 envolve o.relacionamento de jornalistas, relações públicas e
-publicitários, é recomendável a leitura de *Vade Mecum da
-Comunicação,* de Reinaldo Santos. As principais leis que regulamentam a área de Comunicação ali estão contidas. Leitura
+publicitários, é recomendável a leitura de *Vade Mecum da Comunicação,* de Reinaldo Santos. As principais leis que regulamentam a área de Comunicação ali estão contidas. Leitura
 imprescindível.
 
 Uma experiência importante na área de Assessoria de Imprensa foi
@@ -1908,8 +1883,7 @@ transformou a empresa num dos fenômenos de participação na mídia dos
 
 A discussão atual que se relaciona com o ensino de Comunicação no
 Brasil foi esmiuçada por vários professores e transformou-se no
-livro O *Ensino de Comunicação, Análises, Tendências e
-Perspectivas,* organizado pela presidente da Sociedade Brasileira de
+livro O *Ensino de Comunicação, Análises, Tendências e Perspectivas,* organizado pela presidente da Sociedade Brasileira de
 Estudos Interdisciplinares em Comunicação, Margarida Krohling Kunsch,
 e patrocinado pela Associação Brasileira de Escolas de Comunicação,
 Abecom, pela Federação Latino-Americana de Faculdades de Comunicação,
@@ -1920,12 +1894,11 @@ Os dois “trunfos” eu guardei na “manga da camisa” para o finalzinho.
 Duas obras importantes e que são leituras obrigatórias para
 estudantes, profissionais e demais interessados nessa área tão
 importante da sociedade contemporânea. O primeiro é o livro
-*Empresa* x *Imprensa,* da assessora de imprensa do 10B, Lenilde Piá de Leon, com depoimentos de empresários e jornalistas
+*Empresa x Imprensa,* da assessora de imprensa do 10B, Lenilde Piá de Leon, com depoimentos de empresários e jornalistas
 sobre o relacionamento do lado de cá e o de lá, Uma visão abrangente
 do processo de comunicação empresarial.
 
-E a obra mais completa no momento sobre o tema é *Assessoria de
-Imprensa, Teoria e Prática.* Os autores, Luiz Ferraretto e Elisa
+E a obra mais completa no momento sobre o tema é *Assessoria de Imprensa, Teoria e Prática.* Os autores, Luiz Ferraretto e Elisa
 Kopplin são docentes da USININOS, do Rio Grande do Sul, e
 profissionais que atuam em assessoria naquela região. O livro parte
 de uma abordagem histórica, discute alguns conceitos emergentes e
@@ -1940,8 +1913,7 @@ ainda o acompanhamento das principais programações de rádio e tevê
 estão entre os “divertimentos” e as “obrigações” de qualquer
 candidato a assessor de Imprensa.
 
-![](media/image156.png){width="1.0930544619422573in" height="1.5666666666666667in"}SOBRE O AUTOR
-------------------------------------------------------------------------------------------------
+#Sobre o autor
 
 O que já foi feito e o que ainda será ...
 
@@ -1969,11 +1941,3 @@ Aproximar cada vez mais as experiências das duas vertentes, universidade e empr
 Acredito em utopias, inclusive na liberdade de opinião.
 
 Nasci sob o signo de Capricórnio, numa tarde quente do verão de 1961.
-
-ABORTO AÇÃO CULTURAL ACUPUNTURA ADMINISTRAÇÃO ADOLESCÊNCIA AGRICULTURA SUSTENTÁVEL AIDS AIDS -2ª VISÃO ALCOOLISMO ALIENAÇÃO ALQUIMIA ANARQUISMO ANGÚSTIA APARTAÇÃO ARQUITETURA ARTE ASSENTAMENTOS RURAIS ASSESSORIA DE IMPRENSA ASTROLOGIA ASTRONOMIA ATOR AUTONOMIA OPERÁRIA AVENTURA BARALHO BELEZA BENZEÇÃO BIBLIOTECA BIOÉTICA BOLSA DE VALORES BRINQUEDO BUDISMO BUROCRACIA CAPITAL CAPITAL INTERNACIONAL CAPITALISMO CETICISMO CIDADANIA CIDADE CIÊNCIAS COGNITIVAS CINEMA COMPUTADOR COMUNICAÇÃO COMUNICAÇÃO EMPRESARIAL COMUNICAÇÃO RURAL COMUNICAÇÃO
-ECLESIAL DE BASE COMUNIDADES ALTERNATIVAS CONSTITUINTE CONTO CONTRACEPÇÃO CONTRACULTURA COOPERATIVISMO CORPO CORPOLATRIA CRIANÇA CRIME CULTURA CULTURA POPULAR DARWINISMO DEFESA DO CONSUMIDOR DEMOCRACIA DEPRESSÃO DEPUTADO DESIGN DESOBEDIÊNCIA CIVIL DIALÉTICA DIPLOMACIA DIREITO DIREITO AUTORAL DIREITOS DA PESSOA DIREITOS HUMANOS DOCUMENTAÇÃO ECOLOGIA EDITORA EDUCAÇÃO EDUCAÇÃO AMBIENTAL EDUCAÇÃO FÍSICA EMPREGOS E SALÁRIOS EMPRESA ENERGIA NUCLEAR ENFERMAGEM ENGENHARIA FLORESTAL ESCOLHA PROFISSIONAL
-ESCRITA FEMININA ESPERANTO ESPIRITISMO ESPIRITISMO 2ª VISÃO ESPORTE ESTATÍSTICA ESTRUTURA SINDICAL ÉTICA ETNOCENTRISMO EXISTENCIALISMO FAMÍLIA FANZINE FEMINISMO FICÇÃO FICÇÃO CIENTÍFICA FILATELIA FILOSOFIA FILOSOFIA DA MENTE FILOSOFIA MEDIEVAL FÍSICA FMI FOLCLORE FOME FOTOGRAFIA FUNCIONÁRIO PÚBLICO FUTEBOL GEOGRAFIA GEOPOLÍTICA GESTO MUSICAL GOLPE DE ESTADO GRAFFITI GRAFOLOGIA GREVE GUERRA HABEAS CORPUS HERÓI HIERÓGLIFOS HIPNOTISMO HIST. EM QUADRINHOS HISTÓRIA HISTÓRIA DA CIÊNCIA HISTÓRIA DAS MENTALIDADES HOMEOPATIA
-HOMOSSEXUALIDADE IDEOLOGIA IGREJA IMAGINÁRIO IMORALIDADE IMPERIALISMO INDÚSTRIA CULTURAL INFLAÇÃO INFORMÁTICA INFORMÁTICA 2ª VISÃO INTELECTUAIS INTELIGÊNCIA ARTIFICIAL IOGA ISLAMISMO JAZZ JORNALISMO JORNALISMO SINDICAL JUDAÍSMO JUSTIÇA LAZER LEGALIZAÇÃO DAS DROGAS LEITURA LESBIANISMO LIBERDADE LÍNGUA LINGÜÍSTICA LITERATURA DE CORDEL LITERATURA INFANTIL LIVRO-REPORTAGEM LIXO LOUCURA MAGIA MAIS-VALIA MARKETING MARKETING POLÍTICO MARXISMO MATERIALISMO DIALÉTICO MEDICINA ALTERNATIVA MEDICINA POPULAR MEDICINA PREVENTIVA MEIO AMBIENTE MENOR MÉTODO PAULO FREIRE MITO MORAL MORTE MULTINACIONAIS MUSEU MÚSICA MÚSICA BRASILEIRA MÚSICA SERTANEJA NATUREZA NAZISMO NEGRITUDE NEUROSE NORDESTE BRASILEIRO OCEANOGRAFIA ONG OPINIÃO PÚBLICA ORIENTAÇÃO SEXUAL PANTANAL PARLAMENTARISMO PARLAMENTARISMO MONÁRQUICO PARTICIPAÇÃO PARTICIPAÇÃO POLÍTICA PEDAGOGIA PENA DE MORTE PÊNIS PERIFERIA URBANA PESSOAS DEFICIENTES PODER PODER LEGISLATIVO PODER LOCAL POLÍTICA POLÍTICA CULTURAL POLÍTICA EDUCACIONAL POLÍTICA NUCLEAR POLÍTICA SOCIAL POLUIÇÃO QUÍMICA PORNOGRAFIA PÓS-MODERNO POSITIVISMO PREVENÇÃO DE DROGAS PROGRAMAÇÃO PROPAGANDA IDEOLÓGICA PSICANÁLISE 2ª
-VISÃO PSICODRAMA PSICOLOGIA PSICOLOGIA COMUNITÁRIA PSICOLOGIA SOCIAL PSICOTERAPIA PSICOTERAPIA DE
-FAMÍLIA PSIQUIATRIA ALTERNATIVA PUNK QUESTÃO AGRÁRIA QUESTÃO DA DÍVIDA EXTERNA QUESTÃO PALESTINA QUÍMICA RACISMO RÁDIO EM ONDAS CURTAS RADIOATIVIDADE REALIDADE RECESSÃO RECURSOS HUMANOS REFORMA AGRÁRIA RELAÇÕES INTERNACIONAIS REMÉDIO RETÓRICA REVOLUÇÃO ROBÓTICA ROCK ROMANCE POLICIAL SEGURANÇA DO TRABALHO SEMIÓTICA SERVIÇO SOCIAL SINDICALISMO SOCIOBIOLOGIA SOCIOLOGIA SOCIOLOGIA DO ESPORTE STRESS SUBDESENVOLVIMENTO SUICÍDIO SUPERSTIÇÃO TABU TARÔ TAYLORISMO TEATRO NO TEATRO TEATRO INFANTIL TECNOLOGIA TELENOVELA TEORIA TOXICOMANIA TRABALHO
-TRADUÇÃO TRÂNSITO TRANSPORTE URBANO TROTSKISMO UMBANDA UNIVERSIDADE URBANISMO UTOPIA VELHICE VEREADOR VÍDEO VIOLÊNCIA VIOLÊNCIA CONTRA A MULHER VIOLÊNCIA URBANA XADREZ ZEN ZOOLOGIA
